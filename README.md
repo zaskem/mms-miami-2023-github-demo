@@ -1,6 +1,6 @@
 # Git and GitHub for the Sysadmin
 
-## [Slide Deck](Git-and-GitHub-for-the-Sysadmin.pptx)
+## [Slide Deck](https://static.sched.com/hosted_files/mms2023miami/2a/Git-and-GitHub-for-the-Sysadmin.pptx)
 
 ## Cheat Sheets
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
